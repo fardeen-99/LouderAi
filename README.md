@@ -11,7 +11,7 @@ This project shows full-stack product work:
 - modern React frontend with animated UI
 - Express and MongoDB backend deployment
 
-## What Recruiters Should Know
+## What You Should Know
 
 This is not just a UI demo. I built a complete application where:
 - users create an account and log in
