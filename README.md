@@ -94,9 +94,6 @@ Replace the GitHub URL above with your public repository URL before pushing.
 ```bash
 cd backend
 npm install
-cd ../frontend
-npm install
-cd ..
 ```
 
 ### 3. Create backend environment variables
@@ -158,4 +155,4 @@ https://louderai.onrender.com
 
 ## Author
 
-Built by [FARDEEN](https://github.com/fardeen-99>)
+Built by [FARDEEN](https://github.com/fardeen-99)
